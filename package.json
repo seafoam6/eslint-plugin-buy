@@ -2,6 +2,7 @@
   "name": "eslint-plugin-buy",
   "version": "0.0.1",
   "description": "Eslint Rules for redux",
+  "author": "Steve Barman",
   "keywords": [],
   "main": "lib/index.js",
   "scripts": {
